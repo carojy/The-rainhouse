@@ -1,9 +1,11 @@
+import '../styles/Cart.css'
+
 function Cart(){
     const monstera = 20
     const lierre = 10
     const bouquetFleurs = 15
     
-    return (<div> 
+    return (<div className="trh-cart"> 
         <h2>Panier</h2>
         <ul>
             <li>Monstera : {monstera} €</li>
