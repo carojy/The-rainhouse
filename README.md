@@ -1,4 +1,4 @@
 # Projet en Create React App
-
-Création d'un site E-commerce en utilisant React
+EN COURS DE CONSTRUCTION
+==> Création d'un site E-commerce avec React
 
