@@ -4,6 +4,6 @@ EN COURS DE CONSTRUCTION
 
 V1 : Navigation entre categories et mise au panier fonctionnelle
 V2 : Connexion comptes utilisateurs
-v3 : Ajout d'articles par les utilisateurs
-v4 : Fonctionnalité de chat entre utilisateurs
+V3 : Ajout d'articles par les utilisateurs
+V4 : Fonctionnalité de chat entre utilisateurs
 
