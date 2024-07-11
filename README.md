@@ -1,5 +1,5 @@
 # Projet en React
-EN COURS DE CONSTRUCTION
+*EN COURS DE CONSTRUCTION*
 ==> Création d'une plateforme de troc de plantes avec React. Monnaie d'échange : les drops.
 
 V1 : Navigation entre categories et mise au panier fonctionnelle ; 
